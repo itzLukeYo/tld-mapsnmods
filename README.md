@@ -1,2 +1,3 @@
 # tld-mapsnmods
-This is where I upload stuff meant for The Long Drive
+
+Welcome to the repo which I have created for some little things I make for The Long Drive. This will, for now, include maps, and later quite possibly mods.
